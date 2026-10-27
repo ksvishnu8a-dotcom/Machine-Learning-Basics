@@ -1,0 +1,31 @@
+CustomerID,Age,MonthlyCharges,TenureMonths,Contract,SupportCalls,PaymentMethod,Churn
+1001,25.0,29.99,2,Month-to-month,5,Card,Yes
+1002,34.0,65.5,24,One year,2,Bank transfer,No
+1003,45.0,80.0,48,Two year,1,Card,No
+1004,,45.25,12,Month-to-month,4,Cash,Yes
+1005,29.0,55.0,5,One year,3,Card,No
+1005,29.0,55.0,5,One year,3,Card,No
+1007,52.0,95.0,60,Two year,0,Bank transfer,No
+1008,41.0,,18,Month-to-month,6,Card,Yes
+1009,38.0,72.0,36,One year,2,Cash,No
+1010,150.0,70.0,24,Two year,1,Card,Yes
+1011,23.0,25.0,1,Month-to-month,7,Cash,Yes
+1012,31.0,60.0,15,One year,4,Card,No
+1013,47.0,1100.0,72,Two year,0,Bank transfer,No
+1014,36.0,48.0,9,Month-to-month,5,Card,Yes
+1015,,39.99,3,One year,3,Cash,Yes
+1016,28.0,58.5,22,Two year,2,Bank transfer,No
+1017,61.0,89.0,65,Two year,1,Card,No
+1018,42.0,75.0,30,One year,2,Cash,No
+1019,33.0,,11,Month-to-month,6,Card,Yes
+1020,39.0,62.0,40,Two year,1,Bank transfer,No
+1021,27.0,35.0,4,Month-to-month,5,Cash,Yes
+1022,44.0,85.0,55,Two year,0,Card,No
+1023,35.0,50.0,17,One year,4,Bank transfer,Yes
+1024,49.0,92.0,70,Two year,1,Card,No
+1025,30.0,42.0,8,Month-to-month,6,Cash,Yes
+1026,55.0,105.0,63,Two year,0,Bank transfer,No
+1027,26.0,30.0,2,Month-to-month,7,Card,Yes
+1028,40.0,68.0,29,One year,3,Cash,No
+1029,37.0,77.0,44,Two year,2,Bank transfer,No
+1030,32.0,53.0,14,One year,4,Card,Yes
